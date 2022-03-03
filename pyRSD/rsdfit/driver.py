@@ -18,6 +18,8 @@ logger = MPILoggerAdapter(logging.getLogger('rsdfit.fitting_driver'))
 
 NMU = 41
 
+#savetest
+
 def load_results(filename):
     """
     Load a result from file
